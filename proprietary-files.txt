@@ -2431,9 +2431,7 @@ odm/etc/init/vendor.oplus.hardware.touch@1.0-service.rc
 odm/etc/init/vendor.oplus.hardware.wifi@1.1-service-mtk.rc
 odm/etc/init/vendor_engineermode.rc
 odm/etc/normalize/flags.prop
-odm/etc/orms/orms_core_config.xml
 odm/etc/orms/orms_permission_config.xml
-odm/etc/power_profile/power_monitor_config.xml
 odm/etc/power_profile/power_profile.xml
 odm/etc/powerhal/power_app_cfg.xml
 odm/etc/powerhal/powercontable.xml
